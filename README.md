@@ -7,3 +7,4 @@ This project is related to building and training a multi-layer perceptron neural
 - prediction_notebook.ipynb -- the notebook where much of the analysis and work was done
 - day.csv --- the data recorded on a daily basis 
 - hour.csv --- the data recorded for every hour in the day
+- README.md --- this file!
